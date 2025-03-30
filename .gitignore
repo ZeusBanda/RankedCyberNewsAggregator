@@ -1,0 +1,10 @@
+# Ignore virtual environment folder
+.RCNA/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Optional: ignore logs and outputs
+logs/
+output/
