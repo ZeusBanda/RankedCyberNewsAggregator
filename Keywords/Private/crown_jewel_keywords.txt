@@ -1,0 +1,12 @@
+active directory
+sap
+okta
+azure ad
+vpn
+aws s3
+domain controller
+cloud infrastructure
+identity provider
+email gateway
+siem
+erp

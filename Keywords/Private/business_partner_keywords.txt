@@ -1,0 +1,11 @@
+microsoft
+okta
+salesforce
+amazon
+github
+cloudflare
+google
+oracle
+atlassian
+zoom
+fortinet

@@ -1,10 +1,35 @@
-# Ignore virtual environment folder
+# ────────────────────────────────
+# Python Environment & Cache
+# ────────────────────────────────
 .RCNA/
-
-# Python cache files
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
 
-# Optional: ignore logs and outputs
-logs/
-output/
+# ────────────────────────────────
+# Virtual Environments (optional names)
+# ────────────────────────────────
+.venv/
+env/
+venv/
+
+# ────────────────────────────────
+# Output / Generated Files
+# ────────────────────────────────
+Output/
+*.log
+*.tmp
+
+# ────────────────────────────────
+# Sensitive Keyword Lists
+# ────────────────────────────────
+Keywords/Private/*_PRIVATE.txt
+
+# ────────────────────────────────
+# IDE / Editor Junk (optional)
+# ────────────────────────────────
+.vscode/
+.idea/

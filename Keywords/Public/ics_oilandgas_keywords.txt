@@ -1,0 +1,37 @@
+ABB
+Allen-Bradley
+asset visibility
+Bently Nevada
+CODESYS
+control system
+DCS
+DeltaV
+dnp3
+Emerson
+Fieldbus
+GE Digital
+HMI
+Honeywell
+ICS
+Inductive Automation
+industrial
+industrial control system
+mitsubishi
+Modbus
+Nozomi Networks
+nuclear
+opc
+OPC UA
+OT
+pipeline
+PLC
+process automation
+refinery
+rockwell
+Rockwell Automation
+rtu
+SCADA
+schneider
+Schneider Electric
+Siemens
+Yokogawa

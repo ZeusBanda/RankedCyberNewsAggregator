@@ -1,0 +1,12 @@
+dll sideloading
+living off the land
+byovd
+signed binary abuse
+proxyjacking
+persistence
+lateral movement
+credential stuffing
+custom malware
+obfuscated payload
+supply chain attack
+initial access

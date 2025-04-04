@@ -1,0 +1,10 @@
+palo alto
+zscaler
+cisco
+splunk
+crowdstrike
+sentinelone
+veeam
+duo
+azure
+aws

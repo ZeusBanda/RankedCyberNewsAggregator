@@ -1,0 +1,75 @@
+feeds:
+  # === Cybersecurity News (General) ===
+  - name: BleepingComputer
+    url: https://www.bleepingcomputer.com/feed/
+    type: news
+
+  - name: The Hacker News
+    url: https://feeds.feedburner.com/TheHackersNews
+    type: news
+
+  - name: SecurityWeek
+    url: https://feeds.feedburner.com/securityweek
+    type: news
+
+  - name: SC Magazine
+    url: https://www.scmagazine.com/home/feed/
+    type: news
+
+  - name: CyberScoop
+    url: https://cyberscoop.com/feed/
+    type: news
+
+  - name: Threatpost
+    url: https://threatpost.com/feed/
+    type: news
+
+  - name: Infosecurity Magazine
+    url: https://www.infosecurity-magazine.com/rss/news/
+    type: news
+
+  - name: Dark Reading
+    url: https://www.darkreading.com/rss.xml
+    type: news
+
+  # === Threat Intelligence / Research ===
+  - name: Palo Alto Unit 42
+    url: https://unit42.paloaltonetworks.com/feed/
+    type: threat-intel
+
+  - name: Cisco Talos
+    url: https://blog.talosintelligence.com/feeds/posts/default
+    type: threat-intel
+
+  - name: CrowdStrike Blog
+    url: https://www.crowdstrike.com/blog/feed/
+    type: threat-intel
+
+  - name: Elastic Security
+    url: https://www.elastic.co/blog/category/security/feed
+    type: threat-intel
+
+  - name: Microsoft Security Blog
+    url: https://www.microsoft.com/security/blog/feed/
+    type: threat-intel
+
+  - name: Check Point Research
+    url: https://research.checkpoint.com/feed/
+    type: threat-intel
+
+  - name: SentinelOne Labs
+    url: https://www.sentinelone.com/feed/
+    type: threat-intel
+
+  - name: SANS ISC
+    url: https://isc.sans.edu/rssfeed.xml
+    type: threat-intel
+
+  # === Ransomware Feeds ===
+  - name: DataBreaches.net
+    url: https://www.databreaches.net/feed/
+    type: ransomware
+
+  - name: Ransomfeed.it
+    url: https://www.ransomfeed.it/rss-complete.php
+    type: ransomware

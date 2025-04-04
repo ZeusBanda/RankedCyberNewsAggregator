@@ -1,0 +1,43 @@
+Advanced Persistent Threat
+APT
+backdoor
+beacon
+botnet
+Brute Ratel
+c2
+Cobalt Strike
+Command and Control
+credential dumping
+credential harvesting
+cross-site scripting
+cryptojacking
+data leak
+DDoS
+drive-by download
+dropper
+exfiltration
+implant
+infostealer
+initial access
+keylogger
+lateral movement
+living off the land
+loader
+malspam
+malvertising
+malware
+obfuscation
+payload
+phishing
+privilege escalation
+ransomware
+red team
+remote access trojan
+rootkit
+spear phishing
+SQL injection
+Trojan
+TTP
+vulnerability chaining
+watering hole
+zero-day vulnerability
