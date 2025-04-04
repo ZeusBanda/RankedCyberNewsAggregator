@@ -43,6 +43,8 @@ Keywords drive the prioritization logic. They’re divided into logical categori
 | `crown_jewel_keywords.txt`    | AD, SAP, VPNs, and other high-value assets |
 | `low_priority_keywords.txt`   | Suppresses noisy topics like training, awareness weeks |
 | `trusted_sources.txt`         | Boosts confidence in sources like CISA, Microsoft, Unit42 |
+*** The information in these files was generated using OpenAI***
+
 
 ---
 
