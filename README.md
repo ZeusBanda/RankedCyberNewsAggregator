@@ -1,8 +1,10 @@
 # RankedCyberNewsAggregator (RCNA)
+*A Python tool for aggregating and scoring cybersecurity news and threat intelligence — tailored for operational relevance.*
 
-A local-first Python tool for aggregating and scoring cybersecurity news and threat intelligence—tailored for operational relevance. Designed with a scoring engine inspired by GCTI-style prioritization and purple team strategy.
+RCNA was built out of necessity: trying to cut through the noise and quickly figure out which cyber stories actually matter.  
+Its scoring engine prioritizes articles based on custom keywords, threat relevance, and context — so you can focus on what’s high-impact, not just what’s trending.
 
----
+Originally tuned for ICS/OT environments, it’s flexible enough to support any niche or industry.
 
 ## Why This Tool Matters
 
