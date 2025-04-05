@@ -12,7 +12,7 @@ Threat feeds are noisy. Headlines rarely align with what your organization *actu
 
 With minor edits to the keyword lists, this tool can be adapted to **any industry or sector**. By default, it’s tuned for ICS/OT environments in oil and gas, but it can just as easily be used in finance, healthcare, education, or tech.
 
-> Like all good threat intelligence work, this tool gets stronger the better you understand your organization.
+Like all good threat intelligence work, this tool gets stronger the better you understand your organization.
 
 ---
 
@@ -80,4 +80,9 @@ python -m venv .RCNA
 Once activated, your terminal will show something like:
 ```bash
 (.RCNA) your-user@your-machine %
+```
+
+## Running the tool
 ```bash
+(.RCNA) your-user@your-machine % python rcna.py
+```
